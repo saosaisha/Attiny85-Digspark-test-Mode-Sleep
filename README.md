@@ -1,1 +1,1 @@
-# Attiny85-Digspark-test-Mode-Sleepp
+# Attiny85-Digspark-test-Mode-Sleep
